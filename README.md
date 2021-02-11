@@ -1,6 +1,6 @@
 # Notes
 the Deloied link is <a href="https://punithbajaj.github.io/Notes/">Notes</a>
-<h6>(After Once you open link, then you can then use it offline.)</h6>
+<h5>(After Once you open link, then you can use it offline.)</h5>
 
 This note taking app has following features : 
 - You can add as many notes you like. Notes has Title and Description.
