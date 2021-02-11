@@ -1,5 +1,5 @@
 # Notes
-the Deloied link is <a href="https://punithbajaj.github.io/Notes/">Notes</a>
+the Deloyed link is <a href="https://punithbajaj.github.io/Notes/">Notes</a>
 <h5>(After Once you open link, then you can use it offline.)</h5>
 
 This note taking app has following features : 
