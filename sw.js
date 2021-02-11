@@ -1,12 +1,7 @@
 self.addEventListener("install", function (e) {
     e.waitUntil(
         caches.open("notes-store").then(function (cache) {
-            return cache.addAll([
-                "/learning-area/javascript/apis/client-side-storage/cache-sw/video-store-offline/",
-                "/learning-area/javascript/apis/client-side-storage/cache-sw/video-store-offline/index.html",
-                "/learning-area/javascript/apis/client-side-storage/cache-sw/video-store-offline/index.js",
-                "/learning-area/javascript/apis/client-side-storage/cache-sw/video-store-offline/style.css",
-            ]);
+            return cache.addAll(["/Notes/", "/Notes/index.html", "/Notes/index.js", "/Notes/style.css"]);
         })
     );
 });

@@ -116,7 +116,7 @@ window.onload = function () {
     // Register service worker to control making site work offline
 
     if ("serviceWorker" in navigator) {
-        navigator.serviceWorker.register("D:/for this pc/Projects/web-projects/Notes/sw.js").then(function () {
+        navigator.serviceWorker.register("/Notes/sw.js").then(function () {
             console.log("Service Worker Registered");
         });
     }
